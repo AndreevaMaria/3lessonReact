@@ -1,0 +1,13 @@
+h1, p {
+  font-family: Lato;
+}
+.record {
+  margin-top: 10px;
+  margin-bottom: 10px
+}
+.record-title {
+  font-size: 25px
+}
+.record-message {
+  font-style: italic
+}
